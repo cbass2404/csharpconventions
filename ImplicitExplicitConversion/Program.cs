@@ -10,6 +10,9 @@ namespace ImplicitExplicitConversion
     {
         static void Main(string[] args)
         {
+            double myDouble = 13.37;
+            int myInt;
+            
         }
     }
 }
