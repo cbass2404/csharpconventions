@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace conventions
 {
     class ClientActivity
-        // Pascal casing for class names "ClientActivity"
+    // Pascal casing for class names "ClientActivity"
     {
         // Method name is Pascal as well
         // method arguments camel case "firstNumber"
@@ -18,7 +18,7 @@ namespace conventions
             // use userControl instead of usrCtr
 
             // don't use numbers at the start of variable names
-            int 3cars = 6;
+            int cars3 = 6;
 
             // Correct
             string myName;

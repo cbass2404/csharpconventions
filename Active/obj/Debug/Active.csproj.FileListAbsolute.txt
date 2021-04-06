@@ -1,0 +1,13 @@
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.exe.config
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.exe
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.pdb
+C:\coding\csharp\conventions\conventions\obj\Debug\Active.csproj.CoreCompileInputs.cache
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.exe
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.pdb
+C:\coding\csharp\conventions\Active\bin\Debug\conventions.exe.config
+C:\coding\csharp\conventions\Active\bin\Debug\conventions.exe
+C:\coding\csharp\conventions\Active\bin\Debug\conventions.pdb
+C:\coding\csharp\conventions\Active\obj\Debug\Active.csprojAssemblyReference.cache
+C:\coding\csharp\conventions\Active\obj\Debug\Active.csproj.CoreCompileInputs.cache
+C:\coding\csharp\conventions\Active\obj\Debug\conventions.exe
+C:\coding\csharp\conventions\Active\obj\Debug\conventions.pdb

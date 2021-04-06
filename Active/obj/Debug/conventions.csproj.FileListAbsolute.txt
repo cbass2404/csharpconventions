@@ -1,0 +1,7 @@
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.csprojAssemblyReference.cache
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.csproj.CoreCompileInputs.cache
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.exe.config
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.exe
+C:\coding\csharp\conventions\conventions\bin\Debug\conventions.pdb
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.exe
+C:\coding\csharp\conventions\conventions\obj\Debug\conventions.pdb
