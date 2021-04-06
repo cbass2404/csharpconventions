@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitExplicitConversions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseStringToInteger", "..\ParseStringToInteger\ParseStringToInteger.csproj", "{6B47279F-C8C8-44A9-9E11-C0F482E8ACC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndItsMethods", "..\StringsAndItsMethods\StringsAndItsMethods.csproj", "{361F6DB1-C186-4C62-AAF5-2FD0FCC1CA41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6B47279F-C8C8-44A9-9E11-C0F482E8ACC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B47279F-C8C8-44A9-9E11-C0F482E8ACC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B47279F-C8C8-44A9-9E11-C0F482E8ACC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361F6DB1-C186-4C62-AAF5-2FD0FCC1CA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361F6DB1-C186-4C62-AAF5-2FD0FCC1CA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361F6DB1-C186-4C62-AAF5-2FD0FCC1CA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361F6DB1-C186-4C62-AAF5-2FD0FCC1CA41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
