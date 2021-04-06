@@ -1,0 +1,7 @@
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csprojAssemblyReference.cache
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+C:\coding\csharp\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

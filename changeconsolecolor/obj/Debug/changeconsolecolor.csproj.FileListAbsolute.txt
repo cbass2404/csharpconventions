@@ -1,0 +1,7 @@
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\bin\Debug\changeconsolecolor.exe.config
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\bin\Debug\changeconsolecolor.exe
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\bin\Debug\changeconsolecolor.pdb
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\obj\Debug\changeconsolecolor.csprojAssemblyReference.cache
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\obj\Debug\changeconsolecolor.csproj.CoreCompileInputs.cache
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\obj\Debug\changeconsolecolor.exe
+C:\coding\csharp\changeconsolecolor\changeconsolecolor\obj\Debug\changeconsolecolor.pdb
